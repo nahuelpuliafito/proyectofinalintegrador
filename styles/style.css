@@ -1,0 +1,99 @@
+feComponentTransfer
+
+/**Comment**/
+
+* {
+  box-sizing: border-box;
+}
+
+header { 
+  background-image: url(../images/top-bg.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: blueviolet;
+}
+
+body {
+  font-family: 'Unbounded', sans-serif;
+  width: 100%;
+  background-image: url(../images/starfield.gif);
+  background-color: black;
+  background-size: 100%;
+ }
+
+p {
+    color: red;
+    width: 300px;
+  }
+
+
+  button {
+    background-color: beige;
+    border-radius: 25px;
+    padding: 10px;
+    width: fit-content;
+    margin: 10px;
+    font-size: 20px;
+    font-stretch: wider;
+    font-weight: bold;
+    border-style: outset;
+    border-color: black;
+    border-width: 1px;
+  }
+/**Botones pagima principal.**/
+  
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px 15px 20px 15px;
+    margin: 30px 10px 30px 10px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+  
+  }
+
+  .section-pfp {
+    width: 256px;
+    height: 256px;
+    border: 10px solid white; 
+  }
+  #texto-footer {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+  }
+  #info {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  #exp {
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  #habilidades {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+
+  #demo {
+    width: 100%;
+    height: fit-content;
+    border-radius: 25px;
+    background-color: palegoldenrod;
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+  }
+
+  footer{ 
+    margin: 0;
+    width: 100%;
+    height: auto;
+  }
